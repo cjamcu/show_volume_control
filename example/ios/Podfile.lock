@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - show_volume_control (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - show_volume_control (from `.symlinks/plugins/show_volume_control/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  show_volume_control:
+    :path: ".symlinks/plugins/show_volume_control/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  show_volume_control: f31e3f4a5ccc57ca2a2c22f88a068a1627477882
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.9.1
